@@ -1,0 +1,50 @@
+body {
+    margin: auto;
+    width: 1024px;
+    border: 3px solid #73AD21;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+}
+
+#titulo {
+    font-weight: 900;
+    font-size: xx-large;
+    color: red;
+    text-align: center;
+}
+
+#jogo {
+    margin: auto;
+    width: 960px;
+    height: 680px;
+}
+
+#opcoes {
+    position: relative;
+    top: 150px;
+    font-size: large;
+    text-align: center;
+}
+
+#selecionar {
+    display: block;
+    margin: auto;
+    font-size: medium;
+}
+
+#botao {
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 30px;
+    border: 3px solid #73AD21;
+    font-size: large;
+    font-weight: 600;
+}
+
+#instrucao {
+    text-align: left;
+}
